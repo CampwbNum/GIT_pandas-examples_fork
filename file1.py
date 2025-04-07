@@ -1,5 +1,3 @@
-
-__author__ = 'Brab'
+__author__ = 'Barbara'
 __author__ = 'thing'
-__author__ = 'trook'
 __author__ = 'corentin'
